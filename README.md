@@ -6,3 +6,4 @@ My First Programming Lessons
 * Gcc
 * Git
 * Ruby Language
+* Ruby Shortcut 
