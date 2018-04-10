@@ -6,7 +6,7 @@ Hello World in Assembly in different platforms.
 	* nasm -f elf64 tutorial.asm
 	* ld -s -o tutorial tutorial.o
 	* ./tutorial (it should print on the screen)
-
+        * git add -A
 ## OSX Sierra 10.12.5
   * nasm -f macho tutorial.asm
   * `ld -e _start -o tutorial tutorial.o`
