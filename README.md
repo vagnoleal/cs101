@@ -7,4 +7,5 @@ My First Programming Lessons
 * Git
 * Ruby Language
 * Ruby Shortcut
-* Git status 
+* Git status
+* Project Github 
