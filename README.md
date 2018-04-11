@@ -8,4 +8,5 @@ My First Programming Lessons
 * Ruby Language
 * Ruby Shortcut
 * Git status
-* Project Github 
+* Project Github
+* Tutorial Git
