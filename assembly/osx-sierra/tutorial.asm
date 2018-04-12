@@ -1,4 +1,4 @@
-; Hello World in assembly for mac
+; Hello My Friend in assembly for mac
 ; nasm -f macho hello.asm
 ; ld -e _start -o hello hello.o
 ;
