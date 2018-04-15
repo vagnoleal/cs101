@@ -5,3 +5,6 @@ My First Programming Lessons
 * Assembly
 * GCC
 * Git
+* Ruby 
+* Python
+* HTML/CSS/Javascript
