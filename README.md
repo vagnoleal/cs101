@@ -3,11 +3,5 @@ My First Programming Lessons
 
 * Computer Architecture
 * Assembly
-* Gcc
+* GCC
 * Git
-* Ruby Language
-* Ruby Shortcut
-* Git status
-* Project Github
-* Tutorial Git
-* Tutorial Ruby
