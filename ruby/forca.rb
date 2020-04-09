@@ -1,4 +1,4 @@
-def da_boas_vindas
+def Hello_Word
 	puts "Welcome to the gallows"
 	puts "What is your name"
 	nome * gets.strip
