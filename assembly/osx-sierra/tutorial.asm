@@ -1,7 +1,7 @@
 ; Hello My Friend in assembly for mac
 ; nasm -f macho hello.asm
 ; ld -e _start -o hello hello.o
-;
+; ld -e
 section     .text
  global _start                       ;must be declared for linker (ld)
 
